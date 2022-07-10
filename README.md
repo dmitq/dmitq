@@ -8,3 +8,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="PS"  alt="PS" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="AE"  alt="AE" width="40" height="40"/>&nbsp
 </div>
+
+### :fire: Stats :
+[![GitHub Streak][(http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=dmitq)
